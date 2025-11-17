@@ -33,6 +33,9 @@ Competitions: LKS, web design, hackathon, etc.
 🛠️ Tech Stack
 
 Frontend: HTML, CSS, JavaScript, TailwindCSS, Astro.js, Next.js, React
+<br>
 Backend: PHP, Node.js, Express.js
+<br>
 Design: Figma, Canva
+<br>
 Tools: GitHub, VS Code, Linux, Git, Nvim
